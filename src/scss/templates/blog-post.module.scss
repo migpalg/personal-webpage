@@ -1,0 +1,29 @@
+.blog-post {
+  padding: 1em;
+}
+
+.blog-author-img {
+  border-radius: 100px;
+}
+
+.blog-hero-img {
+  max-width: 600px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.v-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+}
+
+.v-category {
+  padding: 0.4em 1em;
+  font-size: 0.9em;
+  margin-right: 1em;
+  color: white;
+  display: block;
+  border-radius: 50px;
+}
